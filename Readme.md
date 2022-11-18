@@ -18,3 +18,5 @@ The best means to use these scripts is to firstly create a base database using t
 
 [tabula](https://pypi.org/project/tabula-py/)
 
+This collection of scripts are distributed under GNU GENERAL PUBLIC LICENSE for non-commercial use. 
+In cases of academic research please cite using the availible side bar or as written: Hosford, K. (2022). Irish Prison Service - Daily Population Dataset Generator (Version 1.0) [Computer software]
